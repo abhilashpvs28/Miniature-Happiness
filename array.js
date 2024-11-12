@@ -17,7 +17,7 @@ let fruitsdata = ["Apple","Bannana","Chiku","Dates","Egg Fuits","Figs"]
 
 // let slicedata = fruitsdata.slice(-3)
 
-let splicedata = fruitsdata.splice(0,2,"sdf","efe")
+// let splicedata = fruitsdata.splice(0,2,"sdf","efe")
 // .splice("start index","delete count")
-console.log(fruitsdata,"orginal array")
-console.log(splicedata,"sliced data"); 
+// console.log(fruitsdata,"orginal array")
+// console.log(splicedata,"sliced data"); 
