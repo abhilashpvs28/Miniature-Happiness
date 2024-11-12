@@ -21,3 +21,8 @@ let fruitsdata = ["Apple","Bannana","Chiku","Dates","Egg Fuits","Figs"]
 // .splice("start index","delete count")
 // console.log(fruitsdata,"orginal array")
 // console.log(splicedata,"sliced data"); 
+
+
+
+
+
